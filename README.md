@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website<br>🌱 I’m currently learning front-end development<br>💬 Ask me about anything web related
+🔭 Working on something big...<br>🌱 Studying full-stack JavaScript<br>💬 Ask me about anything web related
 
 
 ## 🌐 Socials:
